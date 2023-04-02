@@ -1,0 +1,1 @@
+![Relative image](../images/octocat.jpg)
