@@ -106,5 +106,3 @@ var test = function this_is(){
 ```
 
 > here is blockquote
-
-[Relative image link](afu.png)
