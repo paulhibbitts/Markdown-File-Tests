@@ -22,7 +22,7 @@ followed by some text
 
 Auto-detected link: http://www.france.com
 
-Wikilink: [[markdown]]
+Wikilink: [[another-markdown-file]]
 
 Some Ignored_multiple_underscore_italics here
 
