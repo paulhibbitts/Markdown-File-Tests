@@ -32,7 +32,7 @@ Followed by another line of normal text with `inline code` and *italics*, **stro
 
 Thin horizontal rule:
 
---
+---
 
 Thick horizontal rule:
 
