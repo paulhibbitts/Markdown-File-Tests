@@ -9,3 +9,7 @@
 ![logo](https://docsify.js.org/_media/icon.svg ':size=33%')
 
 ![logo](https://docsify.js.org/_media/icon.svg ':size=33%' ':class=image-border-rounded')
+
+![logo](https://docsify.js.org/_media/icon.svg ':size=33% class=image-border-rounded')
+
+![logo](https://docsify.js.org/_media/icon.svg ':size=33%,class=image-border-rounded')
