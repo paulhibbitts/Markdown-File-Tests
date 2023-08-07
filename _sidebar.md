@@ -1,4 +1,4 @@
-# [Site Title](/# ':ignore')
+# [Site Title](# ':ignore')
 
 # Site Title <!-- {docsify-ignore} -->
 
