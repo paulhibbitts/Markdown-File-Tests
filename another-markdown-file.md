@@ -9,6 +9,8 @@ Another edit.
 ### Here is some text.
 And here is some secondary text
 
+</div>
+
 <img src="scuttle.png" style="float:left;"/>
 
 <div style="vertical-align:middle;">
@@ -19,3 +21,5 @@ And here is some secondary text
 </div>
 
 <p style="clear:both";></p>
+
+| ![img](scuttle.png) | ### Here is some text. |
