@@ -3,5 +3,7 @@
 Another edit.
 
 <img src="scuttle.png" style="float:left;"/>
-<h3>Here is some text.</h3>
+
+Here is some text.
+
 <p style="clear: both;"></p>
