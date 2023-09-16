@@ -22,4 +22,7 @@ And here is some secondary text
 
 <p style="clear:both";></p>
 
+| Member Photo | Member Details |
+| ------------------- | ------------------- | 
+| ![img](scuttle.png) | ### Here is some text. |
 | ![img](scuttle.png) | ### Here is some text. |
