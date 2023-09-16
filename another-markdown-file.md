@@ -11,6 +11,8 @@ And here is some secondary text
 
 </div>
 
+<p style="clear:both";></p>
+
 <img src="scuttle.png" style="float:left;"/>
 
 <div style="vertical-align:middle;">
