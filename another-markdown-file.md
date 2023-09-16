@@ -10,3 +10,5 @@ Another edit.
 And here is some secondary text
 
 </div>
+
+<p style="clear:both";></p>
