@@ -4,6 +4,6 @@ Another edit.
 
 <img src="scuttle.png" style="float:left;"/>
 
-Here is some text.
+<h3 style="vertical-align:middle;"Here is some text.</h3>
 
 <p style="clear: both;"></p>
