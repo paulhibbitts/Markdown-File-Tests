@@ -2,28 +2,6 @@
 
 Another edit.
 
-<img src="scuttle.png" style="float:left;"/>
-
-<div style="vertical-align:middle;">
-  
-### Here is some text.
-And here is some secondary text
-
-</div>
-
-<p style="clear:both";></p>
-
-<img src="scuttle.png" style="float:left;"/>
-
-<div style="vertical-align:middle;">
-  
-### Here is some text.
-And here is some secondary text
-
-</div>
-
-<p style="clear:both";></p>
-
 | Member Photo | Member Details |
 | ------------------- | ------------------- | 
 | ![img](scuttle.png) | Here is some text. |
