@@ -24,5 +24,5 @@ And here is some secondary text
 
 | Member Photo | Member Details |
 | ------------------- | ------------------- | 
-| ![img](scuttle.png) | ### Here is some text. |
-| ![img](scuttle.png) | ### Here is some text. |
+| ![img](scuttle.png) | Here is some text. |
+| ![img](scuttle.png) | Here is some text. |
