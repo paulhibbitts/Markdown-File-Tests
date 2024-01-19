@@ -11,7 +11,7 @@
 <div class="column">
 <div class="border">
 
-[![Website redesign](images/website-redesign.png)](website-redesign.md)
+[![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
 🎨 **Website redesign**
 
 </div>
@@ -20,7 +20,7 @@
 <div class="column">
 <div class="border">
 
-[![3D Art](images/3d-art.png)](3d-art.md)
+[![3D Art](images/3d-art.png ':class=banner-tall-image')](3d-art.md)
 🖼️ **3D Art**
 
 </div>
