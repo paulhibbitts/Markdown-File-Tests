@@ -27,6 +27,8 @@
 </div>
 </div>
 
+And here is a regular paragraph.
+
 <div class="row">
 <div class="column">
 <div class="border">
