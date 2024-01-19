@@ -8,34 +8,42 @@
 ## My projects {docsify-ignore}
 
 <div class="row">
-<div class="column-border">
+<div class="column">
+<div class="border">
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
 🎨 **Website redesign**
 
 </div>
+</div>
 
-<div class="column-border">
+<div class="column">
+<div class="border">
 
 [![3D Art](images/3d-art.png ':class=banner-tall-image')](3d-art.md)
 🖼️ **3D Art**
 
 </div>
 </div>
+</div>
 
 <div class="row">
-<div class="column-border">
+<div class="column">
+<div class="border">
 
 [![Rebranding](images/rebranding.png ':class=banner-tall-image')](rebranding.md)
 ™️ **Rebranding**
 
 </div>
+</div>
 
-<div class="column-border">
+<div class="column">
+<div class="border">
 
 [![Poster design](images/poster-design.png ':class=banner-tall-image')](poster-design.md)
 🛬 **Poster design**
 
+</div>
 </div>
 </div>
 
