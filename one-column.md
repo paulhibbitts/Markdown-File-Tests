@@ -1,3 +1,5 @@
+![Header image](images/solid_yellow.png ':class=header-image-full-width :no-zoom')
+
 # ☝🏼 Design Portfolio
 
 > 👋 Hi, I’m Mary - a web designer based out of San Francisco.
@@ -19,4 +21,12 @@
 [![Poster design](images/poster-design.png ':class=banner-tall-image')](poster-design.md)
 🛬 **Poster design**
 
-_This [visual portfolio example](https://github.com/paulhibbitts/docsify-this-visual-portfolio-example) is based on the [Notion Portfolio Template](https://www.notion.so/templates/design-portfolio-notion)_
+---
+
+[**📨 Email Me →**](mailto:)
+
+[**🤙 Call Me →**](tel:)
+
+[**📝 My Resume →**](https://www.notion.so/templates/resume)  
+
+_This [Markdown visual portfolio example](https://github.com/paulhibbitts/Markdown-visual-portfolio-example) is based on the [Notion Portfolio Template](https://www.notion.so/templates/design-portfolio-notion)_
