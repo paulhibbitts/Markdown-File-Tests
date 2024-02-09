@@ -7,3 +7,6 @@
 
 <!-- Custom color badge -->
 <span class="badge" style="--badge-text-color: #fff; --badge-bg-color: #007bff;">Primary</span>
+
+<!-- Custom color badge -->
+<span class="badge" style="--badge-text-color: #000; --badge-bg-color: #007bff;">Primary</span>
