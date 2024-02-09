@@ -8,10 +8,10 @@
 <!-- Custom color badge -->
 <span class="badge" style="--badge-bg-color: #0164db;">Primary</span>
 
-<!-- Custom color badge -->
+<!-- Custom color and text badge -->
 <span class="badge" style="--badge-text-color: #fff; --badge-bg-color: #0164db;">Primary</span>
 
-<!-- Custom color badge -->
+<!-- Custom color badge and text -->
 <span class="badge" style="--badge-text-color: #000; --badge-bg-color: #e7c500;">Primary</span>
 
 <!-- Custom color badge with link -->
