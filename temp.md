@@ -1,6 +1,8 @@
 <div style="text-align: center;">
 
-Content is centered.
+This content is **centered**.
+
+</div>
 
 </div>
 
