@@ -1,8 +1,10 @@
-「<u>**中文内容**</u>」  
-「<u>**中文**内容</u>」  
-「<u>中**文内**容</u>」  
-「<u>中文**内容**</u>」  
-「**<u>中文内容</u>**」  
-「**<u>中文</u>内容**」  
-「**中<u>文内</u>容**」  
-「**中文<u>内容</u>**」  
+<div style="text-align: center;">
+
+Content is centered.
+
+</div>
+
+<details>
+   <summary>Title</summary>
+   Content can be shown/hidden.
+</details>
