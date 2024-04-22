@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# This h1 header is Centered
+# This h1 Header is Centered
 
 </div>
 
