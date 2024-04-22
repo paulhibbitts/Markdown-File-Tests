@@ -5,7 +5,7 @@
 </div>
 
 <details>
-   <summary>Title</summary>
+   <summary>Content title</summary>
    This content can be <em>shown/hidden</em>.
 </details>
 
