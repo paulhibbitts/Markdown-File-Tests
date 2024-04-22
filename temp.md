@@ -8,7 +8,7 @@ This content is **centered**.
 
 <details>
    <summary>Title</summary>
-   Content can be shown/hidden.
+   This content can be <em>shown/hidden</em>.
 </details>
 
 Some more content.
