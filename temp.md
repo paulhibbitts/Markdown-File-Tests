@@ -10,3 +10,5 @@ This content is **centered**.
    <summary>Title</summary>
    Content can be shown/hidden.
 </details>
+
+Some more content.
