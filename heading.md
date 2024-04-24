@@ -96,9 +96,4 @@ Management: `Kanban Methodology` `Scrum`
         <td align="center">Some other text</td>
         <td align="center">More text</td>
     </tr>
-    <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
-    </tr>
 </table>
