@@ -3,6 +3,8 @@ An engineering manager building and leading engineering teams at Apple Inc
 
 ## Work Experience  
 
+<div class="two-column-heading">
+
 ### Apple Inc    
   
 <span class="pull-right">
