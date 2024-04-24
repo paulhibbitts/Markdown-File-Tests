@@ -3,12 +3,12 @@ An engineering manager building and leading engineering teams at Apple Inc
 
 ## Work Experience  
 
-<div class="heading">
+<div class="section-heading">
   <h3>Apple Inc </h3>
   <p class="pull-right-heading"><em>Copenhagen</em></p>
 </div>
 
-<div class="heading">
+<div class="section-heading">
 
 ### Apple Inc    
   
