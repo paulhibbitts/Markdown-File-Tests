@@ -47,11 +47,15 @@ _Copenhagen_
 - Collaborated with technical and business staff in design, development, testing and implementation
 - Set up, managed and monitored systems to ensure business continuity
 
-### Bloomberg
-->_New York, NY_
+<div class="two-column-heading">
+  <h3>Bloomberg</h3>
+  <p class="pull-right-heading"><em>New York, NY</em></p>
+</div>
 
-**Software Engineer Intern**
-->_June 2016 to August 2016_
+<div class="two-column-heading">
+  <strong>Software Engineer Intern</strong>
+  <p class="pull-right-heading"><em>June 2016 to August 2016</em></p>
+</div>
 
 - Worked on Bloomberg's platform to enhance the user experience
 - Proactively participated in the team's weekly meetings and conducted reports on the project's progress
@@ -64,12 +68,16 @@ Management: `Kanban Methodology` `Scrum`
 
 ## Education
 
-### Carnegie Mellon University
-->_2014-2016_
+<div class="two-column-heading">
+  <h3>Carnegie Mellon University</h3>
+  <p class="pull-right-heading"><em>2014-2016</em></p>
+</div>
 **Masters of Computer Science**, _Pittsburgh, Pennsylvania_
 
-### The State University of NY
-->_2010 - 2014_
+<div class="two-column-heading">
+  <h3>The State University of NY</h3>
+  <p class="pull-right-heading"><em>2010 - 2014</em></p>
+</div>
 **Bachelor of Engineering**,  _Oswego, New York_
 
 ---
