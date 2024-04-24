@@ -14,6 +14,21 @@ An engineering manager building and leading engineering teams at Apple Inc
   <p class="info"><em>Copenhagen</em></p>
 </div>
 
+## Work Experience
+
+<div class="row">
+<div class="column">
+
+### Apple Inc  
+
+</div>
+<div class="column-right">
+
+_Copenhagen_
+
+</div>
+</div>
+
 <div class="heading">
 
 ### Apple Inc    
