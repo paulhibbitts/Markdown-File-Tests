@@ -90,3 +90,15 @@ Management: `Kanban Methodology` `Scrum`
 
 ||: Email: **<katemiller@gmail.com>** || Phone: **+123 456 789** || Website: **[katemiller.com](katemiller.com)** :||
 
+<table align="center">
+    <tr>
+        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text</td>
+        <td align="center">More text</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+</table>
