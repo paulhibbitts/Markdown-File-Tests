@@ -82,5 +82,9 @@ Management: `Kanban Methodology` `Scrum`
 
 ---
 
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
+
 ||: Email: **<katemiller@gmail.com>** || Phone: **+123 456 789** || Website: **[katemiller.com](katemiller.com)** :||
 
