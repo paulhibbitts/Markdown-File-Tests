@@ -28,7 +28,7 @@ _Copenhagen_
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 </div>
-<div class="column">
+<div class="column-right">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
