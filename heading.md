@@ -3,13 +3,6 @@ An engineering manager building and leading engineering teams at Apple Inc
 
 ## Work Experience  
 
-<div class="two-column-heading">
-  <h3>Apple Inc </h3>
-  <p class="pull-right-heading"><em>Copenhagen</em></p>
-</div>
-
-<div class="two-column-heading">
-
 ### Apple Inc    
   
 <span class="pull-right">
@@ -19,8 +12,10 @@ _Copenhagen_
 </span>  
 </div>
 
-**Engineering Manager**
-->_Jan 2019 to Present_
+<div class="two-column-heading">
+  <strong>Engineering Manager</strong>
+  <p class="pull-right-heading"><em>Jan 2019 to Present</em></p>
+</div>
 
 - Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
 - Contributed to company-wide engineering initiatives
