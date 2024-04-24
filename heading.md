@@ -24,29 +24,19 @@ _Copenhagen_
 - Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
 <div class="two-column-heading">
-  <h3>Apple Inc</h3>
-  <p class="pull-right-heading"><em>Copenhagen</em></p>
+  <strong>Backend Engineer, Financial Data</strong>
+  <p class="pull-right-heading"><em>April 2018 to December 2018</em></p>
 </div>
-
-<div class="two-column-heading">
-  <strong>Engineering Manager</strong>
-  <p class="pull-right-heading"><em>Jan 2019 to Present</em></p>
-</div>
-
-- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
-- Contributed to company-wide engineering initiatives
-- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
-
-**Backend Engineer, Financial Data**
-->_April 2018 to December 2018_
 
 - Built large-scale (petabyte-size) financial data platform/solution/pipelines using Big Data technologies
 - Worked cross-functionally with many teams: Engineering, Treasury, Finance, Accounting, etc.
 - Worked on systems critical to future operation, with impact over billions of dollars of payments volume.
 - Developed a deep understanding of modern payments and financial technology across many countries.
 
-### Stripe
-->_San Francisco, CA_
+<div class="two-column-heading">
+  <h3>Stripe</h3>
+  <p class="pull-right-heading"><em>San Francisco, CA</em></p>
+</div>
 
 **Full Stack Engineer**
 -> _September 2016 to March 2018_
