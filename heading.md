@@ -38,8 +38,10 @@ _Copenhagen_
   <p class="pull-right-heading"><em>San Francisco, CA</em></p>
 </div>
 
-**Full Stack Engineer**
--> _September 2016 to March 2018_
+<div class="two-column-heading">
+  <strong>Full Stack Engineer</strong>
+  <p class="pull-right-heading"><em>September 2016 to March 2018</em></p>
+</div>
 
 - Responsible for developing, maintaining internal web applications
 - Collaborated with technical and business staff in design, development, testing and implementation
