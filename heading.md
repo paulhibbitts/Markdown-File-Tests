@@ -20,6 +20,11 @@ _Copenhagen_
 </span>  
 </div>
 
+<div class="markdown-section heading">
+  <h3>Apple Inc </h3>
+  <p class="info"><em>Copenhagen</em></p>
+</div>
+
 **Engineering Manager**
 ->_Jan 2019 to Present_
 
