@@ -1,20 +1,13 @@
 # **Kate Miller**
 An engineering manager building and leading engineering teams at Apple Inc
 
-## Work Experience  
-
-<div class="heading">
-  <h3>Apple Inc </h3>
-  <p class="info"><em>Copenhagen</em></p>
-</div>
-
 ## Work Experience
 
 <div class="heading">
 
 ### Apple Inc    
   
-<span class="info">
+<span class="pull-right-heading">
   
 _Copenhagen_
     
