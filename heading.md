@@ -76,11 +76,6 @@ Management: `Kanban Methodology` `Scrum`
 **Masters of Computer Science**, _Pittsburgh, Pennsylvania_
 
 <div class="two-column-heading">
-  <h3>The State University of NY</h3>
-  <p class="pull-right-heading"><em>2010 - 2014</em></p>
-</div>
-
-<div class="two-column-heading">
 
 ### The State University of NY
   
