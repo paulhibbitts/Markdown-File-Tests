@@ -72,12 +72,14 @@ Management: `Kanban Methodology` `Scrum`
   <h3>Carnegie Mellon University</h3>
   <p class="pull-right-heading"><em>2014-2016</em></p>
 </div>
+
 **Masters of Computer Science**, _Pittsburgh, Pennsylvania_
 
 <div class="two-column-heading">
   <h3>The State University of NY</h3>
   <p class="pull-right-heading"><em>2010 - 2014</em></p>
 </div>
+
 **Bachelor of Engineering**,  _Oswego, New York_
 
 ---
