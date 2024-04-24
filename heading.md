@@ -80,6 +80,17 @@ Management: `Kanban Methodology` `Scrum`
   <p class="pull-right-heading"><em>2010 - 2014</em></p>
 </div>
 
+<div class="two-column-heading">
+
+### The State University of NY
+  
+<span class="pull-right">
+  
+_2010 - 2014_
+    
+</span>  
+</div>
+
 **Bachelor of Engineering**,  _Oswego, New York_
 
 ---
