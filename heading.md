@@ -22,6 +22,19 @@ _Copenhagen_
 </div>
 </div>
 
+<div class="row">
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+<div class="column">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+</div>
+</div>
+
 **Engineering Manager**
 ->_Jan 2019 to Present_
 
