@@ -10,6 +10,11 @@ An engineering manager building and leading engineering teams at Apple Inc
 ## Work Experience
 
 <div class="heading">
+  <h3>Apple Inc </h3>
+  <p class="info"><em>Copenhagen</em></p>
+</div>
+
+<div class="heading">
 
 ### Apple Inc    
   
@@ -18,16 +23,6 @@ An engineering manager building and leading engineering teams at Apple Inc
 _Copenhagen_
     
 </span>  
-</div>
-
-<div class="markdown-section heading">
-  <h3>Apple Inc </h3>
-  <p class="info"><em>Copenhagen</em></p>
-</div>
-
-<div class="heading">
-  <h3>Apple Inc </h3>
-  <p class="info"><em>Copenhagen</em></p>
 </div>
 
 **Engineering Manager**
