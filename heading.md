@@ -12,7 +12,7 @@ An engineering manager building and leading engineering teams at Apple Inc
 
 ### Apple Inc    
   
-<span class="pull-right-section-heading">
+<span class="pull-right">
   
 _Copenhagen_
     
