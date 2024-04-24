@@ -8,9 +8,9 @@
 An engineering manager building and leading engineering teams at Apple Inc
 
 ## Work Experience
-
+<br>
 <div class="heading">
-  <br><h3>Apple Inc </h3>
+  <h3>Apple Inc </h3>
   <p class="info"><em>Copenhagen</em></p>
 </div>
 
