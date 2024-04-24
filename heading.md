@@ -23,11 +23,15 @@ _Copenhagen_
 - Contributed to company-wide engineering initiatives
 - Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
-### Apple Inc
-->_Copenhagen_
+<div class="two-column-heading">
+  <h3>Apple Inc</h3>
+  <p class="pull-right-heading"><em>Copenhagen</em></p>
+</div>
 
-**Engineering Manager**
-->_Jan 2019 to Present_
+<div class="two-column-heading">
+  <strong>Engineering Manager</strong>
+  <p class="pull-right-heading"><em>Jan 2019 to Present</em></p>
+</div>
 
 - Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
 - Contributed to company-wide engineering initiatives
