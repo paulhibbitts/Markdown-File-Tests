@@ -32,7 +32,7 @@
   </span>
 </div>
 
-```Markdown
+```HTML
 <div class="fa-4x">
   <span class="fa-layers fa-fw" style="background:MistyRose">
     <i class="fa-solid  fa-circle" style="color:Tomato"></i>
