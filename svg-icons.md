@@ -41,4 +41,4 @@
   <i class="fa-solid fa-terminal fa-stack-1x fa-inverse"></i>
 </span>
 ```
-Source: https://docs.fontawesome.com/web/style/layer
+Source: https://docs.fontawesome.com/web/style/stack
