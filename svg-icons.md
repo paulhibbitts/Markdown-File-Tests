@@ -67,3 +67,4 @@
   </span>
 </div>
 ```
+Source: https://docs.fontawesome.com/web/style/layer
