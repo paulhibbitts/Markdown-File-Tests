@@ -1,70 +1,44 @@
-<div class="fa-4x">
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-circle" style="color:Tomato"></i>
-    <i class="fa-inverse fa-solid  fa-times" data-fa-transform="shrink-6"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-bookmark"></i>
-    <i class="fa-inverse fa-solid  fa-heart" data-fa-transform="shrink-10 up-2" style="color:Tomato"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-play" data-fa-transform="rotate--90 grow-4"></i>
-    <i class="fa-solid  fa-sun fa-inverse" data-fa-transform="shrink-10 up-2"></i>
-    <i class="fa-solid  fa-moon fa-inverse" data-fa-transform="shrink-11 down-4.2 left-4"></i>
-    <i class="fa-solid  fa-star fa-inverse" data-fa-transform="shrink-11 down-4.2 right-4"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-calendar"></i>
-    <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-8 down-3" style="font-weight:900">27</span>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-certificate"></i>
-    <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-11.5 rotate--30" style="font-weight:900">NEW</span>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-envelope"></i>
-    <span class="fa-layers-counter" style="background:Tomato">1,419</span>
-  </span>
-</div>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-circle fa-stack-2x"></i>
+  <i class="fa-solid fa-flag fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-camera fa-stack-1x"></i>
+  <i class="fa-solid fa-ban fa-stack-2x" style="color:Tomato"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fa-solid fa-terminal fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-4x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fa-solid fa-terminal fa-stack-1x fa-inverse"></i>
+</span>
 
 ```HTML
-<div class="fa-4x">
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-circle" style="color:Tomato"></i>
-    <i class="fa-inverse fa-solid  fa-times" data-fa-transform="shrink-6"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-bookmark"></i>
-    <i class="fa-inverse fa-solid  fa-heart" data-fa-transform="shrink-10 up-2" style="color:Tomato"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-play" data-fa-transform="rotate--90 grow-4"></i>
-    <i class="fa-solid  fa-sun fa-inverse" data-fa-transform="shrink-10 up-2"></i>
-    <i class="fa-solid  fa-moon fa-inverse" data-fa-transform="shrink-11 down-4.2 left-4"></i>
-    <i class="fa-solid  fa-star fa-inverse" data-fa-transform="shrink-11 down-4.2 right-4"></i>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-calendar"></i>
-    <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-8 down-3" style="font-weight:900">27</span>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-certificate"></i>
-    <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-11.5 rotate--30" style="font-weight:900">NEW</span>
-  </span>
-
-  <span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fa-solid  fa-envelope"></i>
-    <span class="fa-layers-counter" style="background:Tomato">1,419</span>
-  </span>
-</div>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-circle fa-stack-2x"></i>
+  <i class="fa-solid fa-flag fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-camera fa-stack-1x"></i>
+  <i class="fa-solid fa-ban fa-stack-2x" style="color:Tomato"></i>
+</span>
+<span class="fa-stack fa-2x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fa-solid fa-terminal fa-stack-1x fa-inverse"></i>
+</span>
+<span class="fa-stack fa-4x">
+  <i class="fa-solid fa-square fa-stack-2x"></i>
+  <i class="fa-solid fa-terminal fa-stack-1x fa-inverse"></i>
+</span>
 ```
 Source: https://docs.fontawesome.com/web/style/layer
