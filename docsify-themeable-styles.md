@@ -1,17 +1,11 @@
 <style>
-  :root {
-    --base-font-family: system-ui, sans-serif;
-    --base-font-size: 14px;
-    --link-color: #cc0000;
-  }
-
   body {
-    font-family: var(--base-font-family)!important;
-    font-size: var(--base-font-size)!important;
+    font-family: system-ui, sans-serif;
+    font-size: 14px;
   }
 
   a {
-    color: var(--link-color)!important;
+    color: #cc0000;
   }
 </style>
   
