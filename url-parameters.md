@@ -1,9 +1,12 @@
 <script>
-  // Define the parameters to append
-  const paramsToAdd = {
-    font-family: "system-ui,sans-serif",
-    font-size: ".875",
-    link-color: "cc000"
+  // Wait for Docsify to finish rendering
+  window.$docsify = window.$docsify || {};
+  window.$docsify.doneEach = function () {
+    // Define the parameters to append
+    const paramsToAdd = {
+      font-family: "system-ui,sans-serif",
+      font-size: ".875",
+      link-color: "cc000"
   };
 
   // Get the current URL
@@ -16,6 +19,7 @@
 
   // Replace the current URL without reloading the page
   window.history.replaceState({}, document.title, url);
+  };
 </script>
   
 # Schedule
