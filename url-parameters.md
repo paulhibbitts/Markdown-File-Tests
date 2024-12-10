@@ -1,38 +1,24 @@
 <script>
-  (function () {
-    const paramsToAdd = {
+  document.addEventListener('DOMContentLoaded', function() {
+    // Wait for Docsify to render
+    setTimeout(function() {
+      // Define the parameters to append
+      const paramsToAdd = {
       font-family: "system-ui,sans-serif",
       font-size: ".875",
       link-color: "cc000"
-    };
+      };
 
-    let previousUrl = window.location.href;
-    let checkInterval;
-
-    // Function to append parameters to the URL
-    function appendParams() {
+      // Get the current URL and append the parameters
       const url = new URL(window.location.href);
       Object.entries(paramsToAdd).forEach(([key, value]) => {
         url.searchParams.set(key, value);
       });
+
+      // Replace the current URL without reloading the page
       window.history.replaceState({}, document.title, url);
-      clearInterval(checkInterval); // Stop checking after appending
-    }
-
-    // Monitor the URL until it stabilizes
-    function monitorUrl() {
-      if (window.location.href !== previousUrl) {
-        previousUrl = window.location.href;
-        return; // URL is still changing; wait for stabilization
-      }
-
-      // Append parameters when URL is stable
-      appendParams();
-    }
-
-    // Start monitoring the URL every 100ms
-    checkInterval = setInterval(monitorUrl, 100);
-  })();
+    }, 500); // Delay to ensure Docsify has finished rendering (adjustable)
+  });
 </script>
   
 # Schedule
