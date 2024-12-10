@@ -1,21 +1,38 @@
 <script>
-  setTimeout(function () {
-    // Define the parameters to append
+  (function () {
     const paramsToAdd = {
       font-family: "system-ui,sans-serif",
       font-size: ".875",
       link-color: "cc000"
     };
 
-    // Append parameters to the current URL
-    const url = new URL(window.location.href);
-    Object.entries(paramsToAdd).forEach(([key, value]) => {
-      url.searchParams.set(key, value);
-    });
+    let previousUrl = window.location.href;
+    let checkInterval;
 
-    // Replace the current URL without reloading the page
-    window.history.replaceState({}, document.title, url);
-  }, 1000); // Delay execution by 1 second
+    // Function to append parameters to the URL
+    function appendParams() {
+      const url = new URL(window.location.href);
+      Object.entries(paramsToAdd).forEach(([key, value]) => {
+        url.searchParams.set(key, value);
+      });
+      window.history.replaceState({}, document.title, url);
+      clearInterval(checkInterval); // Stop checking after appending
+    }
+
+    // Monitor the URL until it stabilizes
+    function monitorUrl() {
+      if (window.location.href !== previousUrl) {
+        previousUrl = window.location.href;
+        return; // URL is still changing; wait for stabilization
+      }
+
+      // Append parameters when URL is stable
+      appendParams();
+    }
+
+    // Start monitoring the URL every 100ms
+    checkInterval = setInterval(monitorUrl, 100);
+  })();
 </script>
   
 # Schedule
