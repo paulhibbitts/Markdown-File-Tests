@@ -1,25 +1,30 @@
 <script>
-  // Wait for Docsify to finish rendering
-  window.$docsify = window.$docsify || {};
-  window.$docsify.doneEach = function () {
-    // Define the parameters to append
+  (function() {
     const paramsToAdd = {
       font-family: "system-ui,sans-serif",
       font-size: ".875",
       link-color: "cc000"
-  };
+    };
 
-  // Get the current URL
-  const url = new URL(window.location.href);
+    function appendParams() {
+      const url = new URL(window.location.href);
+      Object.entries(paramsToAdd).forEach(([key, value]) => {
+        url.searchParams.set(key, value);
+      });
+      window.history.replaceState({}, document.title, url);
+    }
 
-  // Append each parameter to the URL
-  Object.entries(paramsToAdd).forEach(([key, value]) => {
-    url.searchParams.set(key, value);
-  });
+    function checkDocsifyRendering() {
+      const container = document.querySelector(".content");
+      if (container && container.innerHTML.trim() !== "") {
+        appendParams();
+      } else {
+        setTimeout(checkDocsifyRendering, 100); // Retry every 100ms
+      }
+    }
 
-  // Replace the current URL without reloading the page
-  window.history.replaceState({}, document.title, url);
-  };
+    checkDocsifyRendering();
+  })();
 </script>
   
 # Schedule
