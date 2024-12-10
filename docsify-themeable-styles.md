@@ -4,8 +4,17 @@
     --base-font-size: 14px;
     --link-color: #cc0000;
   }
-</style>
 
+  body {
+    font-family: var(--base-font-family)!important;
+    font-size: var(--base-font-size)!important;
+  }
+
+  a {
+    color: var(--link-color)!important;
+  }
+</style>
+  
 # Schedule
 
 ## :fas fa-calendar fa-pull-left: [Week 1 (May 9 - 15)](module-01)
