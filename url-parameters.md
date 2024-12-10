@@ -1,30 +1,21 @@
 <script>
-  (function() {
+  window.addEventListener('load', function () {
+    // Define the parameters to append
     const paramsToAdd = {
       font-family: "system-ui,sans-serif",
       font-size: ".875",
       link-color: "cc000"
     };
 
-    function appendParams() {
-      const url = new URL(window.location.href);
-      Object.entries(paramsToAdd).forEach(([key, value]) => {
-        url.searchParams.set(key, value);
-      });
-      window.history.replaceState({}, document.title, url);
-    }
+    // Append parameters to the current URL
+    const url = new URL(window.location.href);
+    Object.entries(paramsToAdd).forEach(([key, value]) => {
+      url.searchParams.set(key, value);
+    });
 
-    function checkDocsifyRendering() {
-      const container = document.querySelector(".content");
-      if (container && container.innerHTML.trim() !== "") {
-        appendParams();
-      } else {
-        setTimeout(checkDocsifyRendering, 100); // Retry every 100ms
-      }
-    }
-
-    checkDocsifyRendering();
-  })();
+    // Replace the current URL without reloading the page
+    window.history.replaceState({}, document.title, url);
+  });
 </script>
   
 # Schedule
