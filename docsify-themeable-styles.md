@@ -4,10 +4,10 @@
   }
 
   body {
-    font-family: "system-ui, sans-serif"!important;
+    font-family: system-ui, sans-serif !important;
   }
   a {
-    color: #cc0000!important;
+    color: #cc0000 !important;
   }
 </style>
   
