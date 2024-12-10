@@ -1,7 +1,8 @@
 <style>
   :root {
+    --base-font-family: system-ui, sans-serif;
     --base-font-size: 14px;
-    --theme-color: purple;
+    --link-color: #cc0000;
   }
 </style>
 
