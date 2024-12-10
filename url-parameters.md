@@ -1,5 +1,5 @@
 <script>
-  window.addEventListener('load', function () {
+  setTimeout(function () {
     // Define the parameters to append
     const paramsToAdd = {
       font-family: "system-ui,sans-serif",
@@ -15,7 +15,7 @@
 
     // Replace the current URL without reloading the page
     window.history.replaceState({}, document.title, url);
-  });
+  }, 1000); // Delay execution by 1 second
 </script>
   
 # Schedule
