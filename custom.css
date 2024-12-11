@@ -1,0 +1,11 @@
+:root {
+  --base-font-size: 16px;
+}
+
+body {
+  font-family: system-ui, sans-serif !important;
+}
+
+a {
+  color: #cc0000 !important;
+}
