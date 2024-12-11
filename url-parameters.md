@@ -1,5 +1,5 @@
 <script>
-  (function() {
+  (function () {
     // Function to append parameters to the URL
     function appendParams() {
       const paramsToAdd = {
@@ -15,20 +15,10 @@
       window.history.replaceState({}, document.title, url);
     }
 
-    // Create a MutationObserver to monitor for Docsify content changes
-    const observer = new MutationObserver(function(mutationsList, observer) {
-      // Check if Docsify has rendered the body content
-      const docsifyRendered = document.querySelector('.content');
-      
-      // If Docsify content is detected and the URL hasn't been modified yet
-      if (docsifyRendered && !window.location.search.includes('param1')) {
-        appendParams();
-        observer.disconnect();  // Stop observing once params are added
-      }
+    // Use requestAnimationFrame to delay the URL modification to the next animation frame
+    requestAnimationFrame(function () {
+      setTimeout(appendParams, 0);  // Add a small timeout to ensure Docsify has rendered
     });
-
-    // Start observing the document for changes (looking for Docsify content)
-    observer.observe(document.body, { childList: true, subtree: true });
   })();
 </script>
   
