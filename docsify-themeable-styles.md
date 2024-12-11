@@ -1,6 +1,6 @@
 <style>
   :root {
-    --base-font-size: 14px;
+    --base-font-size: 16px;
   }
 
   body {
