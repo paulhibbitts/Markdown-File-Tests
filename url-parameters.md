@@ -1,29 +1,37 @@
-<script>
-  window.$docsify = window.$docsify || {};
+Single Script Tag URL Parameter Appender
 
-  window.$docsify.plugins = [
-    function (hook, vm) {
-      // Function to append parameters to the URL
-      function appendParams() {
-        const paramsToAdd = {
+<script>
+    // Function to append URL parameters
+    (function() {
+        // Get the current URL
+        let currentUrl = window.location.href;
+        
+        // Define parameters to add (you can modify these as needed)
+        const parametersToAppend = {
           font-family: "system-ui,sans-serif",
           font-size: ".875",
           link-color: "cc000"
         };
-
-        const url = new URL(window.location.href);
-        Object.entries(paramsToAdd).forEach(([key, value]) => {
-          url.searchParams.set(key, value);
-        });
-        window.history.replaceState({}, document.title, url);
-      }
-
-      // Use Docsify's afterEach hook to modify the URL after rendering
-      hook.afterEach(function () {
-        appendParams();
-      });
-    }
-  ];
+        
+        // Create an array to store parameter strings
+        const params = [];
+        
+        // Convert parameters to URL parameter format
+        for (const [key, value] of Object.entries(parametersToAppend)) {
+            params.push(`${encodeURIComponent(key)}=${encodeURIComponent(value)}`);
+        }
+        
+        // Determine if we need to add ? or &
+        const separator = currentUrl.includes('?') ? '&' : '?';
+        
+        // If there are parameters to add, modify the current URL
+        if (params.length > 0) {
+            const newUrl = currentUrl + separator + params.join('&');
+            
+            // Optional: Modify the browser's history and URL without page reload
+            window.history.replaceState({}, document.title, newUrl);
+        }
+    })();
 </script>
   
 # Schedule
