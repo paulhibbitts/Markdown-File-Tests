@@ -1,5 +1,5 @@
-<link rel="stylesheet" "https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/refs/heads/main/custom.css">
-  
+<link rel="stylesheet" href="https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/refs/heads/main/custom.css">
+
 # Schedule
 
 ## :fas fa-calendar fa-pull-left: Week 1 (May 9 - 15)
