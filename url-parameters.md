@@ -1,27 +1,34 @@
 <script>
-  (function () {
-    const paramsToAdd = {
-      font-family: "system-ui,sans-serif",
-      font-size: ".875",
-      link-color: "cc000"
-    };
-
+  (function() {
     // Function to append parameters to the URL
     function appendParams() {
+      const paramsToAdd = {
+        font-family: "system-ui,sans-serif",
+        font-size: ".875",
+        link-color: "cc000"
+      };
+
       const url = new URL(window.location.href);
       Object.entries(paramsToAdd).forEach(([key, value]) => {
         url.searchParams.set(key, value);
       });
-      // Replace the current URL without reloading the page
       window.history.replaceState({}, document.title, url);
     }
 
-    // Listen for history state changes (for single-page navigation)
-    window.addEventListener('popstate', appendParams);
-    window.addEventListener('hashchange', appendParams);
+    // Create a MutationObserver to monitor for Docsify content changes
+    const observer = new MutationObserver(function(mutationsList, observer) {
+      // Check if Docsify has rendered the body content
+      const docsifyRendered = document.querySelector('.content');
+      
+      // If Docsify content is detected and the URL hasn't been modified yet
+      if (docsifyRendered && !window.location.search.includes('param1')) {
+        appendParams();
+        observer.disconnect();  // Stop observing once params are added
+      }
+    });
 
-    // Initial execution in case the page is already in the desired state
-    appendParams();
+    // Start observing the document for changes (looking for Docsify content)
+    observer.observe(document.body, { childList: true, subtree: true });
   })();
 </script>
   
