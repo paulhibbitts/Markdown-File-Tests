@@ -1,25 +1,29 @@
 <script>
-  (function () {
-    // Function to append parameters to the URL
-    function appendParams() {
-      const paramsToAdd = {
-        font-family: "system-ui,sans-serif",
-        font-size: ".875",
-        link-color: "cc000"
-      };
+  window.$docsify = window.$docsify || {};
 
-      const url = new URL(window.location.href);
-      Object.entries(paramsToAdd).forEach(([key, value]) => {
-        url.searchParams.set(key, value);
+  window.$docsify.plugins = [
+    function (hook, vm) {
+      // Function to append parameters to the URL
+      function appendParams() {
+        const paramsToAdd = {
+          font-family: "system-ui,sans-serif",
+          font-size: ".875",
+          link-color: "cc000"
+        };
+
+        const url = new URL(window.location.href);
+        Object.entries(paramsToAdd).forEach(([key, value]) => {
+          url.searchParams.set(key, value);
+        });
+        window.history.replaceState({}, document.title, url);
+      }
+
+      // Use Docsify's afterEach hook to modify the URL after rendering
+      hook.afterEach(function () {
+        appendParams();
       });
-      window.history.replaceState({}, document.title, url);
     }
-
-    // Use requestAnimationFrame to delay the URL modification to the next animation frame
-    requestAnimationFrame(function () {
-      setTimeout(appendParams, 0);  // Add a small timeout to ensure Docsify has rendered
-    });
-  })();
+  ];
 </script>
   
 # Schedule
