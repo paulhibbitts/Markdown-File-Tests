@@ -32,3 +32,5 @@
 * [![Letter_X]( https://fakeimg.pl/400x400?text=X)](letter_x/)
 * [![Letter_Y]( https://fakeimg.pl/400x400?text=Y)](letter_y/)
 * [![Letter_Z]( https://fakeimg.pl/400x400?text=Z)](letter_Z/)
+
+_This demo file based on https://github.com/gllmAR/docsify-img-grid/blob/main/README.md_
