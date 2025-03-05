@@ -1,3 +1,29 @@
+<style>
+  /* UI Kit */
+  .ui-kit-color {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: var(--font-size-s);
+  }
+
+  .ui-kit-color figure {
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+  }
+
+  .ui-kit-color figure div {
+    height: 4rem;
+    border-radius: var(--border-radius);
+  }
+
+  .ui-kit-color figcaption {
+    text-align: center;
+    padding: 0.5em 0;
+  }
+</style>
+
 <!-- markdownlint-disable single-title no-duplicate-heading -->
 
 # UI Kit
