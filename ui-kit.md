@@ -524,3 +524,5 @@ _Italic text_
 **_Bold and italic text_**
 
 ~~Strikethrough~~
+
+_This demo file based on https://github.com/docsifyjs/docsify/blob/develop/docs/ui-kit.md_
