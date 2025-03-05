@@ -341,9 +341,9 @@ Text after rule.
 #### Light / Dark Theme
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="_media/moon.svg">
-  <source media="(prefers-color-scheme: light)" srcset="_media/sun.svg">
-  <img alt="BinaryTree" src="_media/sun.svg" width="122">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/8d839c54b816e15af9396c2013d600dbd2c79630/_media/moon.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/8d839c54b816e15af9396c2013d600dbd2c79630/_media/sun.svg">
+  <img alt="BinaryTree" src="https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/8d839c54b816e15af9396c2013d600dbd2c79630/_media/sun.svg" width="122">
 </picture>
 
 ## Keyboard
