@@ -324,7 +324,7 @@ Text after rule.
 
 ## IFrame
 
-[Example](_media/example.html ':include height=200px')
+[Example](https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/refs/heads/main/_media/example.html ':include height=200px')
 
 ## Images
 
