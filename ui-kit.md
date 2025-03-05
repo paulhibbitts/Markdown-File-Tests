@@ -350,7 +350,7 @@ Text after rule.
 
 ## IFrame
 
-[Example](https://raw.githubusercontent.com/paulhibbitts/Markdown-File-Tests/refs/heads/main/_media/example.html ':include height=200px')
+[Example](https://www.paulhibbitts.net/_media/example.html ':include height=200px')
 
 ## Images
 
