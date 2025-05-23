@@ -2,8 +2,6 @@
 
 **Markdown** is a system-independent markup language that is easier to learn and use than **HTML**.
 
-![Figure 1: The Markdown Mark](images/markdown-red.png)
-
 Some of the key benefits are:
 
 1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
