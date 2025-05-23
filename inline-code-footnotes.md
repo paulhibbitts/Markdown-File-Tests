@@ -31,3 +31,5 @@ John Gruber[^1], the author of Markdown, puts it like this:
 [a-z&&[^bc]]    // "a" bis "z", außer "b" und "c": `[ad-z]` (Subtraktion)
 [a-z&&[^m-p]]   // "a" bis "z", außer "m" bis "p": `[a-lq-z]` (Subtraktion)
 ```
+
+[^1]: [Markdown - John Gruber](https://daringfireball.net/projects/markdown/)
