@@ -1,3 +1,11 @@
+### Current implmentation
+
+![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
+
+```md
+![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
+```
+
 ### Class names
 
 ![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
