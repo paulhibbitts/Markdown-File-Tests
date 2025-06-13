@@ -39,7 +39,3 @@ Alternatives...
 ```md
 ![logo](https://docsify.js.org/_media/icon.svg '{ class: aCssClass anotherCssClass }')
 ```
-
-```md
-![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
-```
