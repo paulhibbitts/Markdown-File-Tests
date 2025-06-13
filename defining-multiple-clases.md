@@ -40,7 +40,7 @@ Alternatives...
 ![logo](https://docsify.js.org/_media/icon.svg '{ class: aCssClass anotherCssClass }')
 ```
 
-### Example Text Elements (for the future?)
+### Example Text Elements with Classes (for the future?)
 
 # Header '{ class: aCssClass anotherCssClass }'
 
