@@ -31,3 +31,15 @@ Multiple classes can be applied to an image by the use of a colon followed by a 
 ```md
 ![logo](https://docsify.js.org/_media/icon.svg ':[class=aCssClass anotherCssClass]')
 ```
+
+Alternatives...
+
+![logo](https://docsify.js.org/_media/icon.svg '{ class: aCssClass anotherCssClass }')
+
+```md
+![logo](https://docsify.js.org/_media/icon.svg '{ class: aCssClass anotherCssClass }')
+```
+
+```md
+![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
+```
