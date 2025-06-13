@@ -39,3 +39,13 @@ Alternatives...
 ```md
 ![logo](https://docsify.js.org/_media/icon.svg '{ class: aCssClass anotherCssClass }')
 ```
+
+### Example Text Elements (for the future?)
+
+# Header '{ class: aCssClass anotherCssClass }')
+
+```md
+# Header '{ class: aCssClass anotherCssClass }')
+```
+
+# Header ':[class=aCssClass anotherCssClass]'
