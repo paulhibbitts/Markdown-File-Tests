@@ -38,7 +38,7 @@
 
   <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
 
-  ![Blog Post Image](images/mountain.jpg)
+  ![Blog Post Image](images/octocat.jpg)
 
   Blog post preview text goes here with more details about the content.  
 
@@ -53,7 +53,7 @@
 
  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
  
- ![Blog Post Image](images/forest.jpg)
+ ![Blog Post Image](images/octocat.jpg)
 
  Another blog post preview with different content.  
 
