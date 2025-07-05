@@ -1,4 +1,4 @@
-# My Open Publishing Blog
+# My Open Blog
 
 ## Create, Share and Collaborate
 
