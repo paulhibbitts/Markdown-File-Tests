@@ -36,9 +36,9 @@
 
   ## [Blog Post Title Link](#)
 
-  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
-
   ![Blog Post Image](images/octocat.jpg)
+
+  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
 
   Blog post preview text goes here with more details about the content.  
 
@@ -50,10 +50,10 @@
  <div class="card-rounded">
 
  ## [Another Blog Post](#)
-
- <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
  
  ![Blog Post Image](images/octocat.jpg)
+
+ <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
 
  Another blog post preview with different content.  
 
