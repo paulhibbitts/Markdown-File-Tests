@@ -17,9 +17,9 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 
   ## [Focus and Blur](focus-and-blur/item.md)
   
-  Blog post preview text goes here with more details about the content.  
-
   <small>21st Jun 2017 </small>
+
+  Blog post preview text goes here with more details about the content.  
 
   [Read More](focus-and-blur/item.md ":class=navpill")
 
@@ -30,9 +30,9 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 
   ## [Classic Modern Architecture](classic-modern-architecture/item.md)
 
-  Another blog post preview with different content.  
-
   <small>27th Jun 2017 </small>
+
+  Another blog post preview with different content.  
 
   [Read More](classic-modern-architecture/item.md ":class=navpill")
     
@@ -43,9 +43,9 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 
   ## [London at Night](london-at-night/item.md)
 
-  Another blog post preview with different content.  
-
   <small>7th Jun 2017</small>
+
+  Another blog post preview with different content.  
 
   [Read More](london-at-night/item.md ":class=navpill")
     
