@@ -1,4 +1,4 @@
-![Plant, which blurs into the distance](unsplash-focus.jpg ":class=header-image")
+![Plant, which blurs into the distance](unsplash-focus.jpg ":class=header-image-full-width")
 
 [←Home](home.md)
 
