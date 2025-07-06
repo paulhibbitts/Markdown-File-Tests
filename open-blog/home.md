@@ -47,7 +47,7 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 
   <small>7th Jun 2017</small>
 
-  [Read More](london-at-night/item.md) ":class=navpill")
+  [Read More](london-at-night/item.md ":class=navpill")
     
   </div>
 </div>
