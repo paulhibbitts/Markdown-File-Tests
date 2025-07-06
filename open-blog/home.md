@@ -4,13 +4,7 @@
 
 ## Create, Share and Collaborate
 
-Totos utinamque nutricis. Lycaona cum non sine vocatur tellus campus insignia et
-absumere pennas Cythereiadasque pericula meritumque Martem longius ait moras
-aspiciunt fatorum. Famulumque volvitur vultu terrae ut querellas hosti deponere
-et dixit est; in pondus fonte desertum. Condidit moras, Carpathius viros, tuta
-metum aethera occuluit merito mente tenebrosa et videtur ut Amor et una
-sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
-*hectora candidus*!
+Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius felicia; ore luce solum nec omnibus potest; ferrugine domoque templa falcato et digitis curre. Quae sanguine et colo unam sagitta tales diruerent, permulcens errore. Saepe caute quid: res: praemia, velle auras vires Ascalaphus, libro infelix antiquo? Fronde in quid ab modo, me postquam marmora debueram quibus dempsisse maiestas avis Phoebus et ecce potes trepidum.
 
 <div class="card-list">
   <div class="card">
