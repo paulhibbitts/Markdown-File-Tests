@@ -1,6 +1,6 @@
 ![Plant, which blurs into the distance](unsplash-focus.jpg ":class=header-tall-image-full-width")
 
-[←Home](home.md)
+[←Home](/home.md)
 
 # Focus and Blur
 
