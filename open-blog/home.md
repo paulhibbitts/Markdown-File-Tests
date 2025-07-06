@@ -13,7 +13,7 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 <div class="card-list">
   <div class="card">
 
-  [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](blog-introduction.md)
+  [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur/item.md)
 
   ## [Focus and Blur](focus-and-blur/item.md)
   
@@ -21,7 +21,7 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 
   <small>21st Jun 2017 </small>
 
-  [Read More](blog-introduction.md ":class=navpill")
+  [Read More](focus-and-blur/item.md ":class=navpill")
 
   </div>
   <div class="card">
