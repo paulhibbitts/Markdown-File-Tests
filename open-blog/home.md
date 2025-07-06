@@ -39,7 +39,7 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
   </div>
     <div class="card">
 
-  [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night/item.md))
+  [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night/item.md)
 
   ## [London at Night](london-at-night/item.md)
 
