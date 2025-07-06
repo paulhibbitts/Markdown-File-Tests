@@ -1,6 +1,6 @@
 ![Modern building](unsplash-luca-bravo.jpg ":class=header-tall-image-full-width")
 
-[←Home](home.md)
+[←Home](../home.md)
 
 # Classic Modern Architecture
 
