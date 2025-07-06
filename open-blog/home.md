@@ -1,3 +1,5 @@
+![Mountain](images/mountain.jpg ":class=header-tall-image-full-width")
+
 # My Open Blog
 
 ## Create, Share and Collaborate
