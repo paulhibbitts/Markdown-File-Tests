@@ -1,8 +1,8 @@
 ![Mountain](images/mountain.jpg ":class=header-tall-image-full-width-header-overlay")
 
-# My Open Blog with a very very very long title
+# My Open Blog with a very very very very very very long title
 
-## Create, Share and Collaborate
+## Create, Share and Collaborate  with a very long title
 
 Totos utinamque nutricis. Lycaona cum non sine vocatur tellus campus insignia et
 absumere pennas Cythereiadasque pericula meritumque Martem longius ait moras
