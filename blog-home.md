@@ -1,4 +1,4 @@
-![Mountain](images/mountain.jpg ":class=header-tall-image-full-width-header-overlay")
+![Mountain](images/mountain.jpg ":class=header-tall-image-full-width-headings-overlay")
 
 # My Open Blog with a very very very very very very long title
 
