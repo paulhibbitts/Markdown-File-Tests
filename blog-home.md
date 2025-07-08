@@ -1,6 +1,6 @@
 ![Mountain](images/mountain.jpg ":class=header-tall-image-full-width-headings-overlay")
 
-# My Open Blog with a very very very very very very long title
+# My Open Blog with a very very long title
 
 ## Create, Share and Collaborate  with a very long title
 
