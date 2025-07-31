@@ -1,4 +1,4 @@
-<blockquote class="annoucement">
+<blockquote class="announcement">
   
 # What’s Happening This Week and This is a Very Long Title
 ## How to explore the problem space  and This is a Very Long Title?
