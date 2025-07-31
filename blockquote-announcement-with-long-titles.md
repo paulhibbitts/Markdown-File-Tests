@@ -3,13 +3,13 @@
 # What’s Happening This Week and This is a Very Long Title
 ## How to explore the problem space  and This is a Very Long Title?
 ### Important Reminders and This is a Very Long Title
-> * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
-> * [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
->
-> ### Required Reading and This is a Very Long Title
-> * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
->
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/76692/quizzes/238287 ':class=button')
+* [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
+* [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
+
+### Required Reading and This is a Very Long Title
+* [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+
+[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/76692/quizzes/238287 ':class=button')
 
 </blockquote>
 
