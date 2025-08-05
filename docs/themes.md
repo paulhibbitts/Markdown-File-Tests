@@ -316,7 +316,7 @@ Below are the most commonly modified theme properties. [Advanced](#advanced) the
 
 Advanced theme properties are also available for use but typically do not need to be modified. Values derived from [common](#common) theme properties but can be set explicitly if preferred.
 
-[_vars-advanced.css](https://raw.githubusercontent.com/docsifyjs/docsify/refs/heads/develop/src/themes/shared/_vars-advaned.css ':include')
+[_vars-advanced.css](https://raw.githubusercontent.com/docsifyjs/docsify/refs/heads/develop/src/themes/shared/_vars-advanced.css ':include')
 
 ## Community
 
