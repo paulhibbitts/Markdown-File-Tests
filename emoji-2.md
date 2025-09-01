@@ -1,6 +1,6 @@
 # Emoji
 
-:eyes: `:eyes:`
+`:eyes: `:eyes:``
 
 :face_exhaling: `:face_exhaling:`
 
