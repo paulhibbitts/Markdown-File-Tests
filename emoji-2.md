@@ -1,7 +1,5 @@
 # Emoji
 
-`:eyes: `:eyes:``
-
 :face_exhaling: `:face_exhaling:`
 
 :face_holding_back_tears: `:face_holding_back_tears:`
